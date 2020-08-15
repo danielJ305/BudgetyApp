@@ -1,0 +1,2 @@
+# BudgetyApp
+// Project from an Udemy Course. Making another project with the same scripting layout as I build this one. Controller is set up with event handlers that call the UI controller to get DOM values. Those values are returned from the UI controller to the Controller, and given to the dataController for data manipulation and given back to the Controller to be displayed by the UIController. This pattern is repeated throughout the project. All function expressions are encapsulated by an iife. This prevents the global scope from being polluted.
